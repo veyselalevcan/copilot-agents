@@ -1,6 +1,6 @@
 # Terms of use
 
-These terms cover the Microsoft 365 Copilot agents published by Veysel Alevcan: Copilot Security Advisor, OT Incident Triage Advisor, Phishing Triage Analyst and Cyber Awareness Quiz Tutor.
+These terms cover the Microsoft 365 Copilot agents published by Veysel Alevcan: the agents listed in this repository's README, plus Copilot Security Advisor, Phishing Triage Analyst and Cyber Awareness Quiz Tutor.
 
 - The agents are provided as is, free of charge, without warranty of any kind.
 - Output is advisory. A qualified person must review it before acting. The agents do not replace incident response procedures, safety procedures, legal advice or regulatory reporting duties.
@@ -11,4 +11,4 @@ These terms cover the Microsoft 365 Copilot agents published by Veysel Alevcan: 
 
 Questions: open an issue in this repository.
 
-Last updated: 2026-11-16
+Last updated: 2026-11-19
